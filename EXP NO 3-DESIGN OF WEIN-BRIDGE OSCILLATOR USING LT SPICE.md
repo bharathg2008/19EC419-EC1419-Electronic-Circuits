@@ -20,12 +20,15 @@
 
 
 ## LT spice circuit diagram
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-20 at 11 17 34 AM" src="https://github.com/user-attachments/assets/9d8c101c-044d-41b7-aad2-565faa01942c" />
 
 
 ## LT spice output graph
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-20 at 11 17 53 AM" src="https://github.com/user-attachments/assets/bdded1a3-61ad-49f8-a5d6-ffae2effcb49" />
 
-## Tabulation
 
 ## calculation
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-20 at 11 19 35 AM" src="https://github.com/user-attachments/assets/224416b8-6e21-4a73-a5e3-b3035fcfed68" />
 
 ## result
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-20 at 11 18 15 AM" src="https://github.com/user-attachments/assets/da16faab-a89c-4ff1-aed5-aaee5fb00f7c" />
