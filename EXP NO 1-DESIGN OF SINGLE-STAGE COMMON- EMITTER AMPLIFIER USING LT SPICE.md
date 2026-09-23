@@ -13,8 +13,13 @@
 
 ## circuit diagram
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-20 at 10 57 24 AM" src="https://github.com/user-attachments/assets/4a2df7e5-ce5d-4261-bd5c-5f70cae13152" />
+
 ## graph
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-20 at 10 57 24 AM (1)" src="https://github.com/user-attachments/assets/32b437db-4f77-47c8-9472-d31f338d8120" />
 
 ## calculation
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-20 at 10 57 24 AM" src="https://github.com/user-attachments/assets/32625b6a-82bb-480a-9e90-6292b4912326" />
 
 ## result
+<img width="1080" height="1384" alt="WhatsApp Image 2026-09-20 at 11 04 12 AM" src="https://github.com/user-attachments/assets/24e46396-1c17-44d0-bbe6-6b7c399fc99f" />
