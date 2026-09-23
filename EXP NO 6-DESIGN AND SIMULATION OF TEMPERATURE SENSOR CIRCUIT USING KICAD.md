@@ -10,6 +10,9 @@
 
 ## output waveform
 <img width="1599" height="899" alt="WhatsApp Image 2026-09-20 at 11 36 12 AM" src="https://github.com/user-attachments/assets/170a38c5-b008-434c-8794-ba6c87701420" />
+## pcb design and 3d model
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-23 at 3 58 54 PM" src="https://github.com/user-attachments/assets/37d71cd6-5926-4c0d-ada4-9aa247b14cbd" />
+
 
 ## result
 <img width="1080" height="1513" alt="WhatsApp Image 2026-09-20 at 11 36 28 AM" src="https://github.com/user-attachments/assets/85cb3172-3aad-4d8d-83ce-57eee330da3a" />
