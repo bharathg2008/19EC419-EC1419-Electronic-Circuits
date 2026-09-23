@@ -25,9 +25,7 @@
 
 ## LT spice output graph
 
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/eb6cffaf-afd9-455e-af14-17899e2cabaf" />
-## Tabulation
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/8876e04c-d990-49d8-867b-3076738a4286" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/eb6cffaf-afd9-455e-af14-17899e2cabaf" /
 ## calculation
 
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/02ebc460-ca70-44e7-a6d3-d00c688c32d8" />
