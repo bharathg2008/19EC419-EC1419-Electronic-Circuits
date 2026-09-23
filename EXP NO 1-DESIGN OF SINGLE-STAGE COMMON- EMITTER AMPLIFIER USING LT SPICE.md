@@ -12,7 +12,8 @@
 
 
 ## circuit diagram
-<img width="1200" height="1600" alt="WhatsApp Image 2026-09-20 at 10 57 24 AM" src="https://github.com/user-attachments/assets/e9e05023-9789-4093-b00e-ed0c3d15c752" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-23 at 4 33 14 PM" src="https://github.com/user-attachments/assets/f9b0be6a-f721-466c-8c89-1d7bf06ecbb8" />
+
 
 
 ## graph
