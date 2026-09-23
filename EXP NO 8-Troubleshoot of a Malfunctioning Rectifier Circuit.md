@@ -4,7 +4,10 @@
 <img width="537" height="177" alt="image" src="https://github.com/user-attachments/assets/78697208-c185-470b-ae46-3aefce515722" />
 <img width="661" height="592" alt="image" src="https://github.com/user-attachments/assets/e09e8377-c841-434f-a6e6-27394cb075ce" />
 <img width="643" height="150" alt="image" src="https://github.com/user-attachments/assets/20f3fa20-64ed-4f77-bd24-223155f63f1d" />
+## circuit diagram
 
+
+<img width="1599" height="479" alt="WhatsApp Image 2026-09-23 at 4 32 19 PM" src="https://github.com/user-attachments/assets/648050ff-54bf-45fb-a9bf-491ea907effc" />
 
 ## tabulation
 
