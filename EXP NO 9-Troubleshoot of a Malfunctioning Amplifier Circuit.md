@@ -6,6 +6,9 @@
 <img width="725" height="297" alt="image" src="https://github.com/user-attachments/assets/43fa7cc6-9fe7-4d04-ae7c-2b330fde5048" />
 <img width="657" height="237" alt="image" src="https://github.com/user-attachments/assets/a0ed600c-09a4-4e95-abce-8df086ebec6b" />
 
+## circuit diagram
+
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-23 at 4 32 35 PM" src="https://github.com/user-attachments/assets/a910ebfa-c5d5-4fcc-9886-341a604933ed" />
 
 ## Tabulation
 
