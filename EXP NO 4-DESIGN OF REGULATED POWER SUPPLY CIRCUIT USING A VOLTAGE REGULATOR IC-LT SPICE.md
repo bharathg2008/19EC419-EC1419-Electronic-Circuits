@@ -5,13 +5,14 @@
 <img width="612" height="143" alt="image" src="https://github.com/user-attachments/assets/aaee80f4-8cd4-4efc-9854-71763bcd4bfc" />
 
 
-## LT spice circuit diagram
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/33fcbd52-99c6-445f-a725-c9af75d12d7c" />
+## LT spice circuit
+diagram<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/35ee608d-b098-4e19-8dc7-728521af32b0" />
+
 
 ## output graph
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/472f7f2b-4922-4d45-9589-093fa162ed7e" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e7a6a44c-f738-4fda-9a14-65e31e839e14" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-20 at 11 29 18 AM" src="https://github.com/user-attachments/assets/97b8230e-2e63-413a-a17c-ae7ba6997a9a" />
 
 
 ## result
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/088e2e1c-c40b-4ea0-94bb-468222da91e5" />
-
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-20 at 11 29 28 AM" src="https://github.com/user-attachments/assets/92482733-f87d-45d4-ac72-db08ee4cab96" />
