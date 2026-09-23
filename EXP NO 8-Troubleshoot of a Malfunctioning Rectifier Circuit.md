@@ -8,6 +8,17 @@
 
 ## tabulation
 
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-23 at 12 05 45 PM" src="https://github.com/user-attachments/assets/9ccbc521-a481-42dd-a1db-580a80af1f52" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-20 at 1 01 38 PM" src="https://github.com/user-attachments/assets/d848c42e-464e-4988-a7f2-b7a4c85bb76d" />
+
 ## attach graph sheet
 
+<img width="991" height="1600" alt="WhatsApp Image 2026-09-20 at 1 02 11 PM" src="https://github.com/user-attachments/assets/f5e0192a-ecbb-4297-8161-4ce4f68d99b6" />
+
+<img width="1579" height="1080" alt="WhatsApp Image 2026-09-20 at 1 02 30 PM" src="https://github.com/user-attachments/assets/a1554412-c04b-4f26-a7ff-696dd2e9e418" />
+
 ## result
+
+<img width="1080" height="1339" alt="WhatsApp Image 2026-09-20 at 1 02 52 PM" src="https://github.com/user-attachments/assets/af4e09c8-6ac8-47c9-af8a-d1db8d09f77f" />
+
