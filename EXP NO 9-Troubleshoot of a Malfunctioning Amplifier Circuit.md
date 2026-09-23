@@ -9,6 +9,12 @@
 
 ## Tabulation
 
+<img width="1080" height="1357" alt="WhatsApp Image 2026-09-20 at 1 05 36 PM" src="https://github.com/user-attachments/assets/2b9a2e17-4667-4397-a5dd-9c8a1d2de2da" />
+
 ## attach semilog graph
 
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-20 at 1 06 13 PM" src="https://github.com/user-attachments/assets/db8464b2-da85-4c7c-98a4-c6b4f5e79484" />
+
 ## result
+
+<img width="1080" height="1318" alt="WhatsApp Image 2026-09-20 at 1 06 42 PM" src="https://github.com/user-attachments/assets/84f9063d-8e09-4263-88ec-61bbbc447cdc" />
